@@ -14,7 +14,7 @@ source hydrant-env/bin/activate
 We can then install packages from PyPI or from GitHub repositories:
 
 ```
-python -m pip install numpy pandas xarray networkx geopandas
+python -m pip install numpy pandas xarray networkx geopandas matplotlib shapely
 python -m pip install git+https://github.com/kasra-keshavarz/hydrant
 python -m pip install git+https://github.com/ShervanGharari/EASYMORE.git@develop_2.0.0
 ```
